@@ -1,18 +1,14 @@
 # GeometryDash.py
 
----
-
 A simple API wrapper for Geometry Dash 2.1 written in Python.
 
 ## Key Features
 
-___
 - Modern Pythonic API using `async` and `await` syntax
 - High coverage of the supported Geometry Dash API
 
 ## Installing
 
----
 **Python 3.6 or higher is required**
 
 ```shell
@@ -20,8 +16,6 @@ pip install geometrydash
 ```
 
 ## Examples
-
----
 
 ### Level Example
 ```python
@@ -43,12 +37,8 @@ user.moderator  # 'elder'
 
 ## Licence
 
----
-
 GNU General Public Licence v3.0
 
 ## Links
-
----
 
 - [Geometry Dash API]('https://gdbrowser.com/api')
