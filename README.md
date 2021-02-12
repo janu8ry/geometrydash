@@ -28,7 +28,7 @@ pip install geometrydash
 import geometrydash as gd
 
 level = await gd.search_level("zodiac")
-level.featured  # 'True
+level.featured  # True
 level.coins  # 0
 ```
 
